@@ -1,2 +1,2 @@
 # app-financas
-Aplicativo de finanças feito com java spring boot e security, react e react native
+Aplicativo de finanças feito com java spring boot implementando pacotes como security e hibernate, FE usando react.
